@@ -3,3 +3,4 @@ site.zip
 Thumbs.db
 *.log
 .vscode/
+.codex-finalizer/
