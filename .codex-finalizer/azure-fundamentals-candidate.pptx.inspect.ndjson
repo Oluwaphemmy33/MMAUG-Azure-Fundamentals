@@ -1,0 +1,421 @@
+{"kind":"deck","id":"pr/n13oh2","name":"Deck"}
+{"kind":"layout","layoutId":"74ec16df-9dbc-4b94-b906-640a011b266b","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2ab485f7-6047-45ba-a395-492639f957c6","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/3g9rh2","slide":1,"title":"Microsoft Azure","textShapes":4}
+{"kind":"textbox","id":"sh/oj65o7u1","slide":1,"text":"Microsoft Azure\nFundamentals","textPreview":"Microsoft Azure | Fundamentals","textChars":28,"textLines":2,"bbox":[70,140,550,170]}
+{"kind":"textbox","id":"sh/pkf6xcbm","slide":1,"text":"Two-hour hands-on introduction","textPreview":"Two-hour hands-on introduction","textChars":30,"textLines":1,"bbox":[74,330,460,40]}
+{"kind":"textbox","id":"sh/ed4nixcz","slide":1,"text":"MMAUG 30-Day AI and DevOps Fundamentals Bootcamp","textPreview":"MMAUG 30-Day AI and DevOps Fundamentals Bootcamp","textChars":48,"textLines":1,"bbox":[74,390,500,72]}
+{"kind":"textbox","id":"sh/fed4r2t4","slide":1,"text":"Learn the concepts. Build the environment. Clean it up.","textPreview":"Learn the concepts. Build the environment. Clean it up.","textChars":55,"textLines":1,"bbox":[74,594,520,48]}
+{"kind":"image","id":"im/elkn65g7","slide":1,"name":"","alt":"Connected cloud services illustration","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/3g9rh2","slide":1,"text":"Welcome learners and explain that the session moves from simple cloud concepts into six guided labs. Ask for a show of hands from anyone using Azure for the first time. Generated cover artwork created for this deck. No external factual source required."}
+{"kind":"slide","id":"sl/98itgs","slide":2,"title":"The learning journey","textShapes":21}
+{"kind":"textbox","id":"sh/0nyhszep","slide":2,"text":"The learning journey","textPreview":"The learning journey","textChars":20,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/zmpgjud4","slide":2,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/ylgfqpwj","slide":2,"text":"Each idea prepares you for the next practical step","textPreview":"Each idea prepares you for the next practical step","textChars":50,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/9s7yp4v6","slide":2,"text":"MMAUG Azure Fundamentals  |  02","textPreview":"MMAUG Azure Fundamentals  |  02","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/8ryhwzul","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[74,250,64,64]}
+{"kind":"textbox","id":"sh/7qpgnud0","slide":2,"text":"Cloud","textPreview":"Cloud","textChars":5,"textLines":1,"bbox":[50,330,112,48]}
+{"kind":"shape","id":"sh/mpgzu9cv","slide":2,"bbox":[138,279,82,6]}
+{"kind":"textbox","id":"sh/pwnydkv2","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[219,250,64,64]}
+{"kind":"textbox","id":"sh/ovexkfeh","slide":2,"text":"Azure","textPreview":"Azure","textChars":5,"textLines":1,"bbox":[195,330,112,48]}
+{"kind":"shape","id":"sh/q14321cf","slide":2,"bbox":[283,279,82,6]}
+{"kind":"textbox","id":"sh/rmd4b6d0","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[364,250,64,64]}
+{"kind":"textbox","id":"sh/cnml4bul","slide":2,"text":"Organize","textPreview":"Organize","textChars":8,"textLines":1,"bbox":[340,330,112,48]}
+{"kind":"shape","id":"sh/dovmdwv6","slide":2,"bbox":[428,279,82,6]}
+{"kind":"textbox","id":"sh/epo361cr","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[509,250,64,64]}
+{"kind":"textbox","id":"sh/zqx4f6dw","slide":2,"text":"Build","textPreview":"Build","textChars":5,"textLines":1,"bbox":[485,330,112,48]}
+{"kind":"shape","id":"sh/0r6l8buh","slide":2,"bbox":[573,279,82,6]}
+{"kind":"textbox","id":"sh/1sfmhgv2","slide":2,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[654,250,64,64]}
+{"kind":"textbox","id":"sh/mto3alcn","slide":2,"text":"Protect","textPreview":"Protect","textChars":7,"textLines":1,"bbox":[630,330,112,48]}
+{"kind":"shape","id":"sh/nux4jqd8","slide":2,"bbox":[718,279,82,6]}
+{"kind":"textbox","id":"sh/jyhkrq9g","slide":2,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[799,250,64,64]}
+{"kind":"textbox","id":"sh/yx83ylsv","slide":2,"text":"Observe","textPreview":"Observe","textChars":7,"textLines":1,"bbox":[775,330,112,48]}
+{"kind":"shape","id":"sh/lkz2t0r6","slide":2,"bbox":[863,279,82,6]}
+{"kind":"textbox","id":"sh/kzql0va1","slide":2,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[944,250,64,64]}
+{"kind":"textbox","id":"sh/buxkn694","slide":2,"text":"Control cost","textPreview":"Control cost","textChars":12,"textLines":1,"bbox":[920,330,112,48]}
+{"kind":"shape","id":"sh/ato3u1sj","slide":2,"bbox":[1008,279,82,6]}
+{"kind":"textbox","id":"sh/xwz2pgra","slide":2,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1089,250,64,64]}
+{"kind":"textbox","id":"sh/wv6lwbap","slide":2,"text":"Clean up","textPreview":"Clean up","textChars":8,"textLines":1,"bbox":[1065,330,112,48]}
+{"kind":"textbox","id":"sh/nqxkj6t8","slide":2,"text":"The destination","textPreview":"The destination","textChars":15,"textLines":1,"bbox":[70,474,200,36]}
+{"kind":"textbox","id":"sh/mpo3q1sn","slide":2,"text":"A small Azure environment you can explain, validate, and remove safely","textPreview":"A small Azure environment you can explain, validate, and remove safely","textChars":70,"textLines":1,"bbox":[70,516,1050,58]}
+{"kind":"notes","id":"nt/98itgs","slide":2,"text":"Use this slide as the route map. The session follows the order shown, then finishes with hands-on validation and cleanup. Ask learners which step feels least familiar."}
+{"kind":"slide","id":"sl/c1zgud","slide":3,"title":"Cloud computing","textShapes":17}
+{"kind":"textbox","id":"sh/knuhwvy1","slide":3,"text":"Cloud computing","textPreview":"Cloud computing","textChars":15,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/zmlgnqxg","slide":3,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/ylczulgb","slide":3,"text":"Rent technology services when you need them","textPreview":"Rent technology services when you need them","textChars":43,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/xk3yl0fq","slide":3,"text":"MMAUG Azure Fundamentals  |  03","textPreview":"MMAUG Azure Fundamentals  |  03","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/cjuhsvy5","slide":3,"text":"On premises","textPreview":"On premises","textChars":11,"textLines":1,"bbox":[95,160,360,46]}
+{"kind":"shape","id":"sh/by1gjqxk","slide":3,"bbox":[95,220,430,300]}
+{"kind":"textbox","id":"sh/axszqlgz","slide":3,"text":"You buy and operate","textPreview":"You buy and operate","textChars":19,"textLines":1,"bbox":[125,250,360,36]}
+{"kind":"shape","id":"sh/hgnixkfu","slide":3,"bbox":[130,315,18,18]}
+{"kind":"textbox","id":"sh/wfeh4fe9","slide":3,"text":"Servers","textPreview":"Servers","textChars":7,"textLines":1,"bbox":[164,306,300,34]}
+{"kind":"shape","id":"sh/uh4byh4v","slide":3,"bbox":[130,363,18,18]}
+{"kind":"textbox","id":"sh/fidc7m5g","slide":3,"text":"Power and cooling","textPreview":"Power and cooling","textChars":17,"textLines":1,"bbox":[164,354,300,34]}
+{"kind":"shape","id":"sh/gjmt0rm1","slide":3,"bbox":[130,411,18,18]}
+{"kind":"textbox","id":"sh/hkvu9wnm","slide":3,"text":"Hardware repairs","textPreview":"Hardware repairs","textChars":16,"textLines":1,"bbox":[164,402,300,34]}
+{"kind":"shape","id":"sh/6dkbuh4z","slide":3,"bbox":[130,459,18,18]}
+{"kind":"textbox","id":"sh/7etc3m5k","slide":3,"text":"Capacity planning","textPreview":"Capacity planning","textChars":17,"textLines":1,"bbox":[164,450,300,34]}
+{"kind":"textbox","id":"sh/sf2tw7mp","slide":3,"text":"Cloud","textPreview":"Cloud","textChars":5,"textLines":1,"bbox":[745,160,360,46]}
+{"kind":"shape","id":"sh/tgbu5cna","slide":3,"bbox":[745,220,430,300]}
+{"kind":"textbox","id":"sh/q9ov6143","slide":3,"text":"A provider operates the platform","textPreview":"A provider operates the platform","textChars":32,"textLines":1,"bbox":[775,250,360,36]}
+{"kind":"shape","id":"sh/raxcf65o","slide":3,"bbox":[780,315,18,18]}
+{"kind":"textbox","id":"sh/nup8ryl0","slide":3,"text":"Use services on demand","textPreview":"Use services on demand","textChars":22,"textLines":1,"bbox":[814,306,310,34]}
+{"kind":"shape","id":"sh/mtgrytkf","slide":3,"bbox":[780,363,18,18]}
+{"kind":"textbox","id":"sh/9g7qt836","slide":3,"text":"Scale when demand changes","textPreview":"Scale when demand changes","textChars":25,"textLines":1,"bbox":[814,354,310,34]}
+{"kind":"shape","id":"sh/8vy9032l","slide":3,"bbox":[780,411,18,18]}
+{"kind":"textbox","id":"sh/vi98vilc","slide":3,"text":"Pay for measured use","textPreview":"Pay for measured use","textChars":20,"textLines":1,"bbox":[814,402,310,34]}
+{"kind":"shape","id":"sh/ahgr2dkr","slide":3,"bbox":[780,459,18,18]}
+{"kind":"textbox","id":"sh/xkrax832","slide":3,"text":"Access global regions","textPreview":"Access global regions","textChars":21,"textLines":1,"bbox":[814,450,310,34]}
+{"kind":"textbox","id":"sh/wji94n2h","slide":3,"text":"Shared responsibility","textPreview":"Shared responsibility","textChars":21,"textLines":1,"bbox":[450,574,380,34]}
+{"kind":"textbox","id":"sh/jm9szil8","slide":3,"text":"Microsoft secures the cloud. You secure what you put in it.","textPreview":"Microsoft secures the cloud. You secure what you put in it.","textChars":59,"textLines":1,"bbox":[260,613,760,34]}
+{"kind":"notes","id":"nt/c1zgud","slide":3,"text":"Define cloud computing before using service names. Explain CapEx as buying equipment and OpEx as paying for ongoing use. Clarify that the customer still owns responsibilities such as identity, data, and configuration."}
+{"kind":"slide","id":"sl/zkk9f1","slide":4,"title":"IaaS, PaaS, and SaaS","textShapes":17}
+{"kind":"textbox","id":"sh/gbalc369","slide":4,"text":"IaaS, PaaS, and SaaS","textPreview":"IaaS, PaaS, and SaaS","textChars":20,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/va14jypo","slide":4,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/u9s3ato3","slide":4,"text":"The service model changes how much you manage","textPreview":"The service model changes how much you manage","textChars":45,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/503mp87q","slide":4,"text":"MMAUG Azure Fundamentals  |  04","textPreview":"MMAUG Azure Fundamentals  |  04","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/4zalg36l","slide":4,"text":"IaaS","textPreview":"IaaS","textChars":4,"textLines":1,"bbox":[70,165,350,48]}
+{"kind":"shape","id":"sh/3y14nyp0","slide":4,"bbox":[70,228,350,260]}
+{"kind":"textbox","id":"sh/ixs3etof","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,254,58,58]}
+{"kind":"textbox","id":"sh/l4z2d47m","slide":4,"text":"Virtual machine","textPreview":"Virtual machine","textChars":15,"textLines":1,"bbox":[172,257,215,38]}
+{"kind":"textbox","id":"sh/k3ql4jq1","slide":4,"text":"You manage the operating system","textPreview":"You manage the operating system","textChars":31,"textLines":1,"bbox":[98,338,292,76]}
+{"kind":"textbox","id":"sh/it83u90r","slide":4,"text":"PaaS","textPreview":"PaaS","textChars":4,"textLines":1,"bbox":[475,165,350,48]}
+{"kind":"shape","id":"sh/juhknehw","slide":4,"bbox":[475,228,350,260]}
+{"kind":"textbox","id":"sh/kvqlwjih","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[501,254,58,58]}
+{"kind":"textbox","id":"sh/5wz2p4z2","slide":4,"text":"App Service","textPreview":"App Service","textChars":11,"textLines":1,"bbox":[577,257,215,38]}
+{"kind":"textbox","id":"sh/6xs3y90n","slide":4,"text":"You deploy the application","textPreview":"You deploy the application","textChars":26,"textLines":1,"bbox":[503,338,292,76]}
+{"kind":"textbox","id":"sh/7y1kreh8","slide":4,"text":"SaaS","textPreview":"SaaS","textChars":4,"textLines":1,"bbox":[880,165,350,48]}
+{"kind":"shape","id":"sh/szal0jit","slide":4,"bbox":[880,228,350,260]}
+{"kind":"textbox","id":"sh/t0jmtoze","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[906,254,58,58]}
+{"kind":"textbox","id":"sh/uls32t0j","slide":4,"text":"Microsoft 365","textPreview":"Microsoft 365","textChars":13,"textLines":1,"bbox":[982,257,215,38]}
+{"kind":"textbox","id":"sh/fm14vyh4","slide":4,"text":"You use the finished software","textPreview":"You use the finished software","textChars":29,"textLines":1,"bbox":[908,338,292,76]}
+{"kind":"textbox","id":"sh/bqlkjyxc","slide":4,"text":"More control","textPreview":"More control","textChars":12,"textLines":1,"bbox":[82,540,220,36]}
+{"kind":"shape","id":"sh/qpcjqtgr","slide":4,"bbox":[220,554,800,8]}
+{"kind":"textbox","id":"sh/ds32l8fi","slide":4,"text":"Less platform management","textPreview":"Less platform management","textChars":24,"textLines":1,"bbox":[970,540,230,36]}
+{"kind":"notes","id":"nt/zkk9f1","slide":4,"text":"Use a housing analogy if helpful. IaaS resembles renting an empty apartment, PaaS resembles a serviced apartment, and SaaS resembles a hotel room. Avoid stretching the analogy. Ask which model gives the customer the most operating system responsibility."}
+{"kind":"slide","id":"sl/6mfhjc","slide":5,"title":"How Azure is organized","textShapes":12}
+{"kind":"textbox","id":"sh/yhcjq94n","slide":5,"text":"How Azure is organized","textPreview":"How Azure is organized","textChars":22,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/lkn2lo3e","slide":5,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/0je1sjmt","slide":5,"text":"Access and policy flow down through four levels","textPreview":"Access and policy flow down through four levels","textChars":47,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/nm5knelk","slide":5,"text":"MMAUG Azure Fundamentals  |  05","textPreview":"MMAUG Azure Fundamentals  |  05","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"shape","id":"sh/mlwju94z","slide":5,"bbox":[230,160,820,72]}
+{"kind":"textbox","id":"sh/9on2po3q","slide":5,"text":"Management group","textPreview":"Management group","textChars":16,"textLines":1,"bbox":[258,177,260,40]}
+{"kind":"textbox","id":"sh/8ne1wjm5","slide":5,"text":"Organizes subscriptions","textPreview":"Organizes subscriptions","textChars":23,"textLines":1,"bbox":[540,178,480,38]}
+{"kind":"shape","id":"sh/vqpkrylg","slide":5,"bbox":[290,260,700,72]}
+{"kind":"textbox","id":"sh/apgjyt4v","slide":5,"text":"Subscription","textPreview":"Subscription","textChars":12,"textLines":1,"bbox":[318,277,260,40]}
+{"kind":"textbox","id":"sh/wve9s7mt","slide":5,"text":"Billing and access boundary","textPreview":"Billing and access boundary","textChars":27,"textLines":1,"bbox":[600,278,360,38]}
+{"kind":"shape","id":"sh/xgnqlc3e","slide":5,"bbox":[350,360,580,72]}
+{"kind":"textbox","id":"sh/atwrqh43","slide":5,"text":"Resource group","textPreview":"Resource group","textChars":14,"textLines":1,"bbox":[378,377,260,40]}
+{"kind":"textbox","id":"sh/bu58jml8","slide":5,"text":"Lifecycle container","textPreview":"Lifecycle container","textChars":19,"textLines":1,"bbox":[660,378,240,38]}
+{"kind":"shape","id":"sh/kjy9wrm5","slide":5,"bbox":[410,460,460,72]}
+{"kind":"textbox","id":"sh/lk7qpw3q","slide":5,"text":"Resource","textPreview":"Resource","textChars":8,"textLines":1,"bbox":[438,477,260,40]}
+{"kind":"textbox","id":"sh/yhwruh4z","slide":5,"text":"VM, VNet, Storage, Web App","textPreview":"VM, VNet, Storage, Web App","textChars":26,"textLines":1,"bbox":[600,478,245,38]}
+{"kind":"textbox","id":"sh/jip8nmlk","slide":5,"text":"Think of folders for governance, not physical boxes","textPreview":"Think of folders for governance, not physical boxes","textChars":51,"textLines":1,"bbox":[290,580,700,40]}
+{"kind":"notes","id":"nt/6mfhjc","slide":5,"text":"Explain each level in plain language. Policies and role assignments at a higher scope can affect lower scopes. A resource group does not force all resources into one physical server or one region. Source: Microsoft Learn, Azure Resource Manager overview."}
+{"kind":"slide","id":"sl/9mgybx","slide":6,"title":"Resource groups","textShapes":15}
+{"kind":"textbox","id":"sh/ml8fy5cr","slide":6,"text":"Resource groups","textPreview":"Resource groups","textChars":15,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/98jy9kvi","slide":6,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/o7ax0fux","slide":6,"text":"Related resources share one lifecycle","textPreview":"Related resources share one lifecycle","textChars":37,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/ba1gbad8","slide":6,"text":"MMAUG Azure Fundamentals  |  06","textPreview":"MMAUG Azure Fundamentals  |  06","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"shape","id":"sh/a9sf25cn","slide":6,"bbox":[90,165,1100,360]}
+{"kind":"textbox","id":"sh/xcjydkve","slide":6,"text":"rg-mmaug-azurefundamentals","textPreview":"rg-mmaug-azurefundamentals","textChars":26,"textLines":1,"bbox":[125,190,700,44]}
+{"kind":"textbox","id":"sh/wbax4fut","slide":6,"text":"VM","textPreview":"VM","textChars":2,"textLines":1,"bbox":[135,300,92,92]}
+{"kind":"textbox","id":"sh/jelgfudk","slide":6,"text":"VM","textPreview":"VM","textChars":2,"textLines":1,"bbox":[103,410,156,38]}
+{"kind":"textbox","id":"sh/ydcf6pcz","slide":6,"text":"VN","textPreview":"VN","textChars":2,"textLines":1,"bbox":[390,300,92,92]}
+{"kind":"textbox","id":"sh/wbeh4bex","slide":6,"text":"VNet","textPreview":"VNet","textChars":4,"textLines":1,"bbox":[358,410,156,38]}
+{"kind":"textbox","id":"sh/xcnydgvi","slide":6,"text":"St","textPreview":"St","textChars":2,"textLines":1,"bbox":[645,300,92,92]}
+{"kind":"textbox","id":"sh/a9cz21wr","slide":6,"text":"Storage","textPreview":"Storage","textChars":7,"textLines":1,"bbox":[613,410,156,38]}
+{"kind":"textbox","id":"sh/valgb6dc","slide":6,"text":"We","textPreview":"We","textChars":2,"textLines":1,"bbox":[900,300,92,92]}
+{"kind":"textbox","id":"sh/kfeh8be9","slide":6,"text":"Web App","textPreview":"Web App","textChars":7,"textLines":1,"bbox":[868,410,156,38]}
+{"kind":"textbox","id":"sh/5gnihgvu","slide":6,"text":"Create together","textPreview":"Create together","textChars":15,"textLines":1,"bbox":[145,560,230,36]}
+{"kind":"textbox","id":"sh/idwz6lw3","slide":6,"text":"Review together","textPreview":"Review together","textChars":15,"textLines":1,"bbox":[520,560,230,36]}
+{"kind":"textbox","id":"sh/je5gf6do","slide":6,"text":"Delete together","textPreview":"Delete together","textChars":15,"textLines":1,"bbox":[895,560,230,36]}
+{"kind":"notes","id":"nt/9mgybx","slide":6,"text":"Introduce the exact lab Resource Group name. Explain that deletion removes every contained resource. Pause on the word lifecycle. Ask what could go wrong if an unrelated production resource were placed in a temporary lab Resource Group."}
+{"kind":"slide","id":"sl/7bpatv","slide":7,"title":"Azure compute choices","textShapes":19}
+{"kind":"textbox","id":"sh/y9sje1c3","slide":7,"text":"Azure compute choices","textPreview":"Azure compute choices","textChars":21,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/lc3i9gve","slide":7,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/0bu1gbut","slide":7,"text":"Choose the simplest service that fits the workload","textPreview":"Choose the simplest service that fits the workload","textChars":50,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/b61036dc","slide":7,"text":"MMAUG Azure Fundamentals  |  07","textPreview":"MMAUG Azure Fundamentals  |  07","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/q5sja1wr","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[80,150,62,62]}
+{"kind":"textbox","id":"sh/d8ji5gvi","slide":7,"text":"Virtual Machine","textPreview":"Virtual Machine","textChars":15,"textLines":1,"bbox":[172,148,280,38]}
+{"kind":"textbox","id":"sh/c7a1cbex","slide":7,"text":"Full operating system control","textPreview":"Full operating system control","textChars":29,"textLines":1,"bbox":[470,148,335,38]}
+{"kind":"textbox","id":"sh/32h0zmdg","slide":7,"text":"Legacy app or custom server","textPreview":"Legacy app or custom server","textChars":27,"textLines":1,"bbox":[825,148,350,48]}
+{"kind":"shape","id":"sh/2h8z6hwv","slide":7,"bbox":[170,223,1000,2]}
+{"kind":"textbox","id":"sh/cf2twn25","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[80,260,62,62]}
+{"kind":"textbox","id":"sh/xgbu5sjq","slide":7,"text":"App Service","textPreview":"App Service","textChars":11,"textLines":1,"bbox":[172,258,280,38]}
+{"kind":"textbox","id":"sh/qd0budkz","slide":7,"text":"Managed web hosting","textPreview":"Managed web hosting","textChars":19,"textLines":1,"bbox":[470,258,335,38]}
+{"kind":"textbox","id":"sh/betc3i1k","slide":7,"text":"Website or API","textPreview":"Website or API","textChars":14,"textLines":1,"bbox":[825,258,350,48]}
+{"kind":"shape","id":"sh/obits329","slide":7,"bbox":[170,333,1000,2]}
+{"kind":"textbox","id":"sh/pcru18je","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[80,370,62,62]}
+{"kind":"textbox","id":"sh/290bqdk3","slide":7,"text":"Functions","textPreview":"Functions","textChars":9,"textLines":1,"bbox":[172,368,280,38]}
+{"kind":"textbox","id":"sh/3a9czi1o","slide":7,"text":"Runs code after an event","textPreview":"Runs code after an event","textChars":24,"textLines":1,"bbox":[470,368,335,38]}
+{"kind":"textbox","id":"sh/87md472d","slide":7,"text":"Short background task","textPreview":"Short background task","textChars":21,"textLines":1,"bbox":[825,368,350,48]}
+{"kind":"shape","id":"sh/98vudcjy","slide":7,"bbox":[170,443,1000,2]}
+{"kind":"textbox","id":"sh/hc72187q","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[80,480,62,62]}
+{"kind":"textbox","id":"sh/wryl8365","slide":7,"text":"Containers / AKS","textPreview":"Containers / AKS","textChars":16,"textLines":1,"bbox":[172,478,280,38]}
+{"kind":"textbox","id":"sh/vqpkzypk","slide":7,"text":"Packages and orchestrates services","textPreview":"Packages and orchestrates services","textChars":34,"textLines":1,"bbox":[470,478,335,38]}
+{"kind":"textbox","id":"sh/upg36t8z","slide":7,"text":"Complex container platform","textPreview":"Complex container platform","textChars":26,"textLines":1,"bbox":[825,478,350,48]}
+{"kind":"notes","id":"nt/7bpatv","slide":7,"text":"Keep containers and AKS conceptual. Explain that containerization alone does not require Kubernetes. For this workshop, the VM demonstrates IaaS and App Service demonstrates PaaS."}
+{"kind":"slide","id":"sl/p0wthy","slide":8,"title":"A virtual machine needs supporting resources","textShapes":13}
+{"kind":"textbox","id":"sh/axcfuxwb","slide":8,"text":"A virtual machine needs supporting resources","textPreview":"A virtual machine needs supporting resources","textChars":44,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/x03y5sv2","slide":8,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/czuxw7eh","slide":8,"text":"The VM is one part of the deployed system","textPreview":"The VM is one part of the deployed system","textChars":41,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/z2lg72ds","slide":8,"text":"MMAUG Azure Fundamentals  |  08","textPreview":"MMAUG Azure Fundamentals  |  08","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/y1cfyxw7","slide":8,"text":"VM","textPreview":"VM","textChars":2,"textLines":1,"bbox":[515,245,150,150]}
+{"kind":"shape","id":"sh/l4ny9cvy","slide":8,"bbox":[120,175,270,105]}
+{"kind":"textbox","id":"sh/k3eh07ed","slide":8,"text":"Image","textPreview":"Image","textChars":5,"textLines":1,"bbox":[144,193,220,34]}
+{"kind":"textbox","id":"sh/765gbmd4","slide":8,"text":"Starting OS","textPreview":"Starting OS","textChars":11,"textLines":1,"bbox":[144,231,220,28]}
+{"kind":"shape","id":"sh/m5wz2hwj","slide":8,"bbox":[120,405,270,105]}
+{"kind":"textbox","id":"sh/gvu50zqh","slide":8,"text":"Size","textPreview":"Size","textChars":4,"textLines":1,"bbox":[144,423,220,34]}
+{"kind":"textbox","id":"sh/hw36t4r2","slide":8,"text":"CPU and memory","textPreview":"CPU and memory","textChars":14,"textLines":1,"bbox":[144,461,220,28]}
+{"kind":"shape","id":"sh/utsny9sb","slide":8,"bbox":[890,175,270,105]}
+{"kind":"textbox","id":"sh/fu1ore9w","slide":8,"text":"OS disk","textPreview":"OS disk","textChars":7,"textLines":1,"bbox":[914,193,220,34]}
+{"kind":"textbox","id":"sh/4zu54jqd","slide":8,"text":"Persistent storage","textPreview":"Persistent storage","textChars":18,"textLines":1,"bbox":[914,231,220,28]}
+{"kind":"shape","id":"sh/pk36xory","slide":8,"bbox":[890,405,270,105]}
+{"kind":"textbox","id":"sh/2xcn298n","slide":8,"text":"NIC","textPreview":"NIC","textChars":3,"textLines":1,"bbox":[914,423,220,34]}
+{"kind":"textbox","id":"sh/3ylove98","slide":8,"text":"Network connection","textPreview":"Network connection","textChars":18,"textLines":1,"bbox":[914,461,220,28]}
+{"kind":"shape","id":"sh/cne58jqp","slide":8,"bbox":[390,226,130,5]}
+{"kind":"shape","id":"sh/don61ora","slide":8,"bbox":[390,456,130,5]}
+{"kind":"shape","id":"sh/lkj6loje","slide":8,"bbox":[665,226,225,5]}
+{"kind":"shape","id":"sh/0ja5sjit","slide":8,"bbox":[665,456,225,5]}
+{"kind":"textbox","id":"sh/zi1oje18","slide":8,"text":"Lab rule: no internet-wide RDP rule","textPreview":"Lab rule: no internet-wide RDP rule","textChars":35,"textLines":1,"bbox":[385,570,510,42]}
+{"kind":"notes","id":"nt/p0wthy","slide":8,"text":"Explain each supporting resource before opening the VM creation page. The lab does not require signing in to the VM, so learners should choose no inbound ports unless the instructor explicitly approves a restricted rule. Source: Microsoft Learn, Windows VM quickstart."}
+{"kind":"slide","id":"sl/aixm1v","slide":9,"title":"Azure networking","textShapes":12}
+{"kind":"textbox","id":"sh/k3mp4je1","slide":9,"text":"Azure networking","textPreview":"Azure networking","textChars":16,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/z2d8bexg","slide":9,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/y14729wv","slide":9,"text":"Private address space connects the workload","textPreview":"Private address space connects the workload","textChars":43,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/9svqh8fi","slide":9,"text":"MMAUG Azure Fundamentals  |  09","textPreview":"MMAUG Azure Fundamentals  |  09","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"shape","id":"sh/8rm983ex","slide":9,"bbox":[95,155,1090,420]}
+{"kind":"textbox","id":"sh/7qd8fyxc","slide":9,"text":"vnet-mmaug-demo    10.0.0.0/16","textPreview":"vnet-mmaug-demo    10.0.0.0/16","textChars":30,"textLines":1,"bbox":[130,180,650,40]}
+{"kind":"shape","id":"sh/mp476twr","slide":9,"bbox":[155,250,760,245]}
+{"kind":"textbox","id":"sh/pwbq54fe","slide":9,"text":"snet-workload    10.0.1.0/24","textPreview":"snet-workload    10.0.1.0/24","textChars":28,"textLines":1,"bbox":[190,274,520,36]}
+{"kind":"textbox","id":"sh/ov2pwzyt","slide":9,"text":"NIC","textPreview":"NIC","textChars":3,"textLines":1,"bbox":[245,352,90,90]}
+{"kind":"textbox","id":"sh/ed0fmhwr","slide":9,"text":"VM","textPreview":"VM","textChars":2,"textLines":1,"bbox":[465,352,90,90]}
+{"kind":"shape","id":"sh/fe9gvmxw","slide":9,"bbox":[335,394,130,6]}
+{"kind":"shape","id":"sh/0fixoreh","slide":9,"bbox":[685,340,180,110]}
+{"kind":"textbox","id":"sh/1gryxwf2","slide":9,"text":"NSG","textPreview":"NSG","textChars":3,"textLines":1,"bbox":[720,360,110,32]}
+{"kind":"textbox","id":"sh/2h0fqhwn","slide":9,"text":"Traffic rules","textPreview":"Traffic rules","textChars":13,"textLines":1,"bbox":[705,401,140,26]}
+{"kind":"shape","id":"sh/nitgzmx8","slide":9,"bbox":[960,277,165,150]}
+{"kind":"textbox","id":"sh/oj2xsret","slide":9,"text":"Public IP","textPreview":"Public IP","textChars":9,"textLines":1,"bbox":[980,308,125,34]}
+{"kind":"textbox","id":"sh/pkby1wve","slide":9,"text":"Optional\nin this lab","textPreview":"Optional | in this lab","textChars":20,"textLines":2,"bbox":[982,360,120,50]}
+{"kind":"textbox","id":"sh/a5kfu1wj","slide":9,"text":"/16 is a larger range. /24 is a smaller range inside it.","textPreview":"/16 is a larger range. /24 is a smaller range inside it.","textChars":56,"textLines":1,"bbox":[205,525,760,34]}
+{"kind":"notes","id":"nt/aixm1v","slide":9,"text":"Explain VNet first, then subnet, NIC, IP addresses, and NSG. Avoid detailed subnet mathematics. The public IP does not create access by itself. The NSG must also permit traffic. Direct internet exposure increases risk."}
+{"kind":"slide","id":"sl/5mq0qy","slide":10,"title":"Azure Storage","textShapes":15}
+{"kind":"textbox","id":"sh/tory5kbm","slide":10,"text":"Azure Storage","textPreview":"Azure Storage","textChars":13,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/6lgza5sv","slide":10,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/rm9g3atg","slide":10,"text":"One account can provide several storage services","textPreview":"One account can provide several storage services","textChars":48,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/4zyh8vap","slide":10,"text":"MMAUG Azure Fundamentals  |  10","textPreview":"MMAUG Azure Fundamentals  |  10","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/507y10ba","slide":10,"text":"ST","textPreview":"ST","textChars":2,"textLines":1,"bbox":[90,250,130,130]}
+{"kind":"textbox","id":"sh/ixgz6lcz","slide":10,"text":"Storage account","textPreview":"Storage account","textChars":15,"textLines":1,"bbox":[65,400,180,38]}
+{"kind":"shape","id":"sh/jypgzqtk","slide":10,"bbox":[325,210,185,150]}
+{"kind":"textbox","id":"sh/wvyh4vut","slide":10,"text":"Blob","textPreview":"Blob","textChars":4,"textLines":1,"bbox":[345,235,145,38]}
+{"kind":"textbox","id":"sh/hw7yx0be","slide":10,"text":"Files and objects","textPreview":"Files and objects","textChars":17,"textLines":1,"bbox":[340,292,155,45]}
+{"kind":"shape","id":"sh/5sba503u","slide":10,"bbox":[220,311,105,5]}
+{"kind":"shape","id":"sh/4r29wv29","slide":10,"bbox":[545,210,185,150]}
+{"kind":"textbox","id":"sh/jqt83ql4","slide":10,"text":"Files","textPreview":"Files","textChars":5,"textLines":1,"bbox":[565,235,145,38]}
+{"kind":"textbox","id":"sh/ipkrulkj","slide":10,"text":"Shared folders","textPreview":"Shared folders","textChars":14,"textLines":1,"bbox":[560,292,155,45]}
+{"kind":"shape","id":"sh/hobq1g3y","slide":10,"bbox":[220,311,325,5]}
+{"kind":"shape","id":"sh/wn29sb2d","slide":10,"bbox":[765,210,185,150]}
+{"kind":"textbox","id":"sh/vmt8z6ls","slide":10,"text":"Queues","textPreview":"Queues","textChars":6,"textLines":1,"bbox":[785,235,145,38]}
+{"kind":"textbox","id":"sh/ulkrq1k7","slide":10,"text":"Messages","textPreview":"Messages","textChars":8,"textLines":1,"bbox":[780,292,155,45]}
+{"kind":"shape","id":"sh/9krqxg3m","slide":10,"bbox":[220,311,545,5]}
+{"kind":"shape","id":"sh/8ji9ob2h","slide":10,"bbox":[985,210,185,150]}
+{"kind":"textbox","id":"sh/03m94bax","slide":10,"text":"Tables","textPreview":"Tables","textChars":6,"textLines":1,"bbox":[1005,235,145,38]}
+{"kind":"textbox","id":"sh/l4vadgbi","slide":10,"text":"Key-value data","textPreview":"Key-value data","textChars":14,"textLines":1,"bbox":[1000,292,155,45]}
+{"kind":"shape","id":"sh/y14r21s7","slide":10,"bbox":[220,311,765,5]}
+{"kind":"textbox","id":"sh/z2dsb6ts","slide":10,"text":"Lab choice: private Blob container with LRS","textPreview":"Lab choice: private Blob container with LRS","textChars":43,"textLines":1,"bbox":[330,430,700,46]}
+{"kind":"textbox","id":"sh/czm90ra1","slide":10,"text":"LRS keeps local copies. ZRS spreads copies across zones. GRS also copies data to another region.","textPreview":"LRS keeps local copies. ZRS spreads copies across zones. GRS also copies data to another region.","textChars":96,"textLines":1,"bbox":[170,510,940,64]}
+{"kind":"notes","id":"nt/5mq0qy","slide":10,"text":"Explain Blob as object storage for files. Keep the container private. Mention that storage account names are globally unique and allow only lowercase letters and numbers. Source: Microsoft Learn, Azure Storage redundancy and Blob portal quickstart."}
+{"kind":"slide","id":"sl/p3gwmh","slide":11,"title":"Identity and Azure RBAC","textShapes":13}
+{"kind":"textbox","id":"sh/0ripcv2h","slide":11,"text":"Identity and Azure RBAC","textPreview":"Identity and Azure RBAC","textChars":23,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/fq983q1w","slide":11,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/ep07alkb","slide":11,"text":"Authentication confirms identity. Authorization grants access.","textPreview":"Authentication confirms identity. Authorization grants access.","textChars":62,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/do7q10jq","slide":11,"text":"MMAUG Azure Fundamentals  |  11","textPreview":"MMAUG Azure Fundamentals  |  11","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"shape","id":"sh/snyp8v25","slide":11,"bbox":[80,170,500,180]}
+{"kind":"textbox","id":"sh/rmp8zq1k","slide":11,"text":"Authentication","textPreview":"Authentication","textChars":14,"textLines":1,"bbox":[115,205,420,42]}
+{"kind":"textbox","id":"sh/qlg76lkz","slide":11,"text":"Who are you?","textPreview":"Who are you?","textChars":12,"textLines":1,"bbox":[115,267,420,44]}
+{"kind":"shape","id":"sh/xkbqdkju","slide":11,"bbox":[700,170,500,180]}
+{"kind":"textbox","id":"sh/wj29kfi9","slide":11,"text":"Authorization","textPreview":"Authorization","textChars":13,"textLines":1,"bbox":[735,205,420,42]}
+{"kind":"textbox","id":"sh/ipsfyp0r","slide":11,"text":"What may you do?","textPreview":"What may you do?","textChars":16,"textLines":1,"bbox":[735,267,420,44]}
+{"kind":"textbox","id":"sh/jq1gru1c","slide":11,"text":"Azure RBAC scope","textPreview":"Azure RBAC scope","textChars":16,"textLines":1,"bbox":[80,415,260,34]}
+{"kind":"shape","id":"sh/krax0zix","slide":11,"bbox":[80,475,245,72]}
+{"kind":"textbox","id":"sh/5sjytkji","slide":11,"text":"Management group","textPreview":"Management group","textChars":16,"textLines":1,"bbox":[92,494,221,34]}
+{"kind":"shape","id":"sh/a1sfu50v","slide":11,"bbox":[365,475,245,72]}
+{"kind":"textbox","id":"sh/vm1gna10","slide":11,"text":"Subscription","textPreview":"Subscription","textChars":12,"textLines":1,"bbox":[377,494,221,34]}
+{"kind":"shape","id":"sh/wnaxwfil","slide":11,"bbox":[650,475,245,72]}
+{"kind":"textbox","id":"sh/xojypkj6","slide":11,"text":"Resource group","textPreview":"Resource group","textChars":14,"textLines":1,"bbox":[662,494,221,34]}
+{"kind":"shape","id":"sh/excz690z","slide":11,"bbox":[935,475,245,72]}
+{"kind":"textbox","id":"sh/filgzehk","slide":11,"text":"Resource","textPreview":"Resource","textChars":8,"textLines":1,"bbox":[947,494,221,34]}
+{"kind":"textbox","id":"sh/rqd4b2dk","slide":11,"text":"Least privilege: grant only the access needed for the task","textPreview":"Least privilege: grant only the access needed for the task","textChars":58,"textLines":1,"bbox":[250,594,780,40]}
+{"kind":"notes","id":"nt/p3gwmh","slide":11,"text":"Introduce Microsoft Entra ID as the identity system. Explain Reader, Contributor, and Owner in simple terms. Students must not change RBAC in the bootcamp environment. Ask why Owner would be excessive for someone who only needs to view resources."}
+{"kind":"slide","id":"sl/zd3fzq","slide":12,"title":"Azure App Service","textShapes":13}
+{"kind":"textbox","id":"sh/critwzil","slide":12,"text":"Azure App Service","textPreview":"Azure App Service","textChars":17,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/bq9cnuh0","slide":12,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/ap0bup0f","slide":12,"text":"A managed platform for websites and APIs","textPreview":"A managed platform for websites and APIs","textChars":40,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/lwbut4z2","slide":12,"text":"MMAUG Azure Fundamentals  |  12","textPreview":"MMAUG Azure Fundamentals  |  12","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/kvit0zih","slide":12,"text":"Virtual Machine","textPreview":"Virtual Machine","textChars":15,"textLines":1,"bbox":[120,160,350,42]}
+{"kind":"shape","id":"sh/zu9cruhw","slide":12,"bbox":[120,225,410,54]}
+{"kind":"textbox","id":"sh/yt0byp0b","slide":12,"text":"Patch the operating system","textPreview":"Patch the operating system","textChars":26,"textLines":1,"bbox":[145,238,360,30]}
+{"kind":"shape","id":"sh/tkbux4zy","slide":12,"bbox":[120,297,410,54]}
+{"kind":"textbox","id":"sh/8j2t4jit","slide":12,"text":"Configure the web server","textPreview":"Configure the web server","textChars":24,"textLines":1,"bbox":[145,310,360,30]}
+{"kind":"shape","id":"sh/mlonmdcb","slide":12,"bbox":[120,369,410,54]}
+{"kind":"textbox","id":"sh/nmh4vitw","slide":12,"text":"Deploy application files","textPreview":"Deploy application files","textChars":24,"textLines":1,"bbox":[145,382,360,30]}
+{"kind":"shape","id":"sh/8nq5onuh","slide":12,"bbox":[120,441,410,54]}
+{"kind":"textbox","id":"sh/98zmx8b2","slide":12,"text":"Monitor and scale","textPreview":"Monitor and scale","textChars":17,"textLines":1,"bbox":[145,454,360,30]}
+{"kind":"textbox","id":"sh/a98nqdcn","slide":12,"text":"App Service","textPreview":"App Service","textChars":11,"textLines":1,"bbox":[760,160,350,42]}
+{"kind":"shape","id":"sh/vah4zit8","slide":12,"bbox":[760,255,410,82]}
+{"kind":"textbox","id":"sh/wbq5snut","slide":12,"text":"Microsoft manages the platform","textPreview":"Microsoft manages the platform","textChars":30,"textLines":1,"bbox":[790,278,350,40]}
+{"kind":"shape","id":"sh/hcz61sby","slide":12,"bbox":[760,370,410,82]}
+{"kind":"textbox","id":"sh/qd4netcj","slide":12,"text":"You deploy the application","textPreview":"You deploy the application","textChars":26,"textLines":1,"bbox":[790,393,350,40]}
+{"kind":"textbox","id":"sh/bex4nyto","slide":12,"text":"Lab deployment","textPreview":"Lab deployment","textChars":14,"textLines":1,"bbox":[500,570,280,34]}
+{"kind":"textbox","id":"sh/fitkvu9g","slide":12,"text":"index.html in a ZIP package","textPreview":"index.html in a ZIP package","textChars":27,"textLines":1,"bbox":[425,608,430,34]}
+{"kind":"notes","id":"nt/zd3fzq","slide":12,"text":"Contrast IaaS and PaaS responsibilities. The Web App receives an HTTPS hostname. The App Service plan supplies compute. ZIP deployment requires index.html at the package root. Source: Microsoft Learn, Deploy files to Azure App Service."}
+{"kind":"slide","id":"sl/feelpc","slide":13,"title":"Monitoring","textShapes":17}
+{"kind":"textbox","id":"sh/h0bq9wbe","slide":13,"text":"Monitoring","textPreview":"Monitoring","textChars":10,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/ux07y1cn","slide":13,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/fyt876t8","slide":13,"text":"Azure records health, performance, and changes","textPreview":"Azure records health, performance, and changes","textChars":46,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/432p4bup","slide":13,"text":"MMAUG Azure Fundamentals  |  13","textPreview":"MMAUG Azure Fundamentals  |  13","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/pobqdgba","slide":13,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[150,190,84,84]}
+{"kind":"textbox","id":"sh/21k721cj","slide":13,"text":"Metrics","textPreview":"Metrics","textChars":7,"textLines":1,"bbox":[70,305,245,40]}
+{"kind":"textbox","id":"sh/32t8b6t4","slide":13,"text":"Numbers over time","textPreview":"Numbers over time","textChars":17,"textLines":1,"bbox":[70,357,245,62]}
+{"kind":"textbox","id":"sh/k7ips7ul","slide":13,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[452,190,84,84]}
+{"kind":"textbox","id":"sh/5srq1cb6","slide":13,"text":"Logs","textPreview":"Logs","textChars":4,"textLines":1,"bbox":[372,305,245,40]}
+{"kind":"textbox","id":"sh/pkjydsj2","slide":13,"text":"Detailed records","textPreview":"Detailed records","textChars":16,"textLines":1,"bbox":[372,357,245,62]}
+{"kind":"textbox","id":"sh/ojahkn2x","slide":13,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[754,190,84,84]}
+{"kind":"textbox","id":"sh/3ihgbi1c","slide":13,"text":"Alerts","textPreview":"Alerts","textChars":6,"textLines":1,"bbox":[674,305,245,40]}
+{"kind":"textbox","id":"sh/2h8zidkr","slide":13,"text":"Notification after a condition","textPreview":"Notification after a condition","textChars":30,"textLines":1,"bbox":[674,357,245,62]}
+{"kind":"textbox","id":"sh/xojyhcje","slide":13,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1056,190,84,84]}
+{"kind":"textbox","id":"sh/cnaho72t","slide":13,"text":"Activity Log","textPreview":"Activity Log","textChars":12,"textLines":1,"bbox":[976,305,245,40]}
+{"kind":"textbox","id":"sh/bm1gf218","slide":13,"text":"Who changed a resource","textPreview":"Who changed a resource","textChars":22,"textLines":1,"bbox":[976,357,245,62]}
+{"kind":"shape","id":"sh/alszmxkn","slide":13,"bbox":[235,485,810,92]}
+{"kind":"textbox","id":"sh/lc3ilcja","slide":13,"text":"Lab task","textPreview":"Lab task","textChars":8,"textLines":1,"bbox":[270,510,130,34]}
+{"kind":"textbox","id":"sh/kbuhs7ip","slide":13,"text":"Find a successful resource creation event in the Resource Group Activity Log","textPreview":"Find a successful resource creation event in the Resource Group Activity Log","textChars":76,"textLines":1,"bbox":[410,503,590,52]}
+{"kind":"notes","id":"nt/feelpc","slide":13,"text":"Clarify that Activity Log records control-plane changes, not the content of application requests. Ask learners to name one event they expect to see after completing the labs."}
+{"kind":"slide","id":"sl/acad17","slide":14,"title":"Cost management","textShapes":17}
+{"kind":"textbox","id":"sh/xs3e1wna","slide":14,"text":"Cost management","textPreview":"Cost management","textChars":15,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/apsfq14j","slide":14,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/bqlwz654","slide":14,"text":"Every resource has a lifecycle and a cost consequence","textPreview":"Every resource has a lifecycle and a cost consequence","textChars":53,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/onaxormd","slide":14,"text":"MMAUG Azure Fundamentals  |  14","textPreview":"MMAUG Azure Fundamentals  |  14","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/9ojexwny","slide":14,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[75,205,78,78]}
+{"kind":"textbox","id":"sh/m1sfmh4n","slide":14,"text":"Estimate","textPreview":"Estimate","textChars":8,"textLines":1,"bbox":[40,310,150,36]}
+{"kind":"textbox","id":"sh/nm1wvm5s","slide":14,"text":"Pricing calculator","textPreview":"Pricing calculator","textChars":18,"textLines":1,"bbox":[20,360,190,56]}
+{"kind":"shape","id":"sh/8jex0vmx","slide":14,"bbox":[153,240,220,6]}
+{"kind":"textbox","id":"sh/tkny9gn2","slide":14,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[375,205,78,78]}
+{"kind":"textbox","id":"sh/lwnqt0jm","slide":14,"text":"Observe","textPreview":"Observe","textChars":7,"textLines":1,"bbox":[340,310,150,36]}
+{"kind":"textbox","id":"sh/kvep0fi1","slide":14,"text":"Cost analysis","textPreview":"Cost analysis","textChars":13,"textLines":1,"bbox":[320,360,190,56]}
+{"kind":"shape","id":"sh/zul8ra1g","slide":14,"bbox":[453,240,220,6]}
+{"kind":"textbox","id":"sh/ytc7y50v","slide":14,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[675,205,78,78]}
+{"kind":"textbox","id":"sh/xs3qp0ja","slide":14,"text":"Control","textPreview":"Control","textChars":7,"textLines":1,"bbox":[640,310,150,36]}
+{"kind":"textbox","id":"sh/crupwvi5","slide":14,"text":"Budgets and alerts","textPreview":"Budgets and alerts","textChars":18,"textLines":1,"bbox":[620,360,190,56]}
+{"kind":"shape","id":"sh/bql8nq1k","slide":14,"bbox":[753,240,220,6]}
+{"kind":"textbox","id":"sh/apc7ul0z","slide":14,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[975,205,78,78]}
+{"kind":"textbox","id":"sh/ho7q1kju","slide":14,"text":"Remove","textPreview":"Remove","textChars":6,"textLines":1,"bbox":[940,310,150,36]}
+{"kind":"textbox","id":"sh/wny98zi9","slide":14,"text":"Delete unused resources","textPreview":"Delete unused resources","textChars":23,"textLines":1,"bbox":[920,360,190,56]}
+{"kind":"shape","id":"sh/gr6t43ql","slide":14,"bbox":[185,490,910,90]}
+{"kind":"textbox","id":"sh/1sfax87q","slide":14,"text":"Cost notice","textPreview":"Cost notice","textChars":11,"textLines":1,"bbox":[225,515,180,38]}
+{"kind":"textbox","id":"sh/e54b2t8f","slide":14,"text":"VMs and App Service plans can charge while idle. Cleanup ends the lab.","textPreview":"VMs and App Service plans can charge while idle. Cleanup ends the lab.","textChars":70,"textLines":1,"bbox":[420,509,620,50]}
+{"kind":"notes","id":"nt/acad17","slide":14,"text":"Do not quote prices because they vary by region, agreement, and date. Explain that students may not have permission to create budgets. Stopping a VM is not the same as deleting its disk, public IP, or other resources."}
+{"kind":"slide","id":"sl/714kca","slide":15,"title":"Two-hour hands-on route","textShapes":28}
+{"kind":"textbox","id":"sh/dcjal0zi","slide":15,"text":"Two-hour hands-on route","textPreview":"Two-hour hands-on route","textChars":23,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/q9sra5gr","slide":15,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/ba1sjahc","slide":15,"text":"Six labs, validation, and cleanup","textPreview":"Six labs, validation, and cleanup","textChars":33,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/0fu9gfyt","slide":15,"text":"MMAUG Azure Fundamentals  |  15","textPreview":"MMAUG Azure Fundamentals  |  15","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/lg3apkze","slide":15,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[70,165,64,64]}
+{"kind":"textbox","id":"sh/ydcre5g3","slide":15,"text":"Portal","textPreview":"Portal","textChars":6,"textLines":1,"bbox":[156,167,190,34]}
+{"kind":"textbox","id":"sh/zelsnaho","slide":15,"text":"10 min","textPreview":"10 min","textChars":6,"textLines":1,"bbox":[156,207,150,28]}
+{"kind":"textbox","id":"sh/gjq94vyp","slide":15,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[370,165,64,64]}
+{"kind":"textbox","id":"sh/1kzqdgza","slide":15,"text":"Resource group","textPreview":"Resource group","textChars":14,"textLines":1,"bbox":[456,167,190,34]}
+{"kind":"textbox","id":"sh/d0jyx0v6","slide":15,"text":"10 min","textPreview":"10 min","textChars":6,"textLines":1,"bbox":[456,207,150,28]}
+{"kind":"textbox","id":"sh/czax4vul","slide":15,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[670,165,64,64]}
+{"kind":"textbox","id":"sh/by1gvqd0","slide":15,"text":"Virtual machine","textPreview":"Virtual machine","textChars":15,"textLines":1,"bbox":[756,167,190,34]}
+{"kind":"textbox","id":"sh/qxsf2lcv","slide":15,"text":"30 min","textPreview":"30 min","textChars":6,"textLines":1,"bbox":[756,207,150,28]}
+{"kind":"textbox","id":"sh/lo3y10vi","slide":15,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[970,165,64,64]}
+{"kind":"textbox","id":"sh/03uh8vux","slide":15,"text":"Networking","textPreview":"Networking","textChars":10,"textLines":1,"bbox":[1056,167,190,34]}
+{"kind":"textbox","id":"sh/z2lgzadc","slide":15,"text":"10 min","textPreview":"10 min","textChars":6,"textLines":1,"bbox":[1056,207,150,28]}
+{"kind":"textbox","id":"sh/y1cz65cr","slide":15,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[70,385,64,64]}
+{"kind":"textbox","id":"sh/9sny5kbe","slide":15,"text":"Blob storage","textPreview":"Blob storage","textChars":12,"textLines":1,"bbox":[156,387,190,34]}
+{"kind":"textbox","id":"sh/8ruhcfut","slide":15,"text":"20 min","textPreview":"20 min","textChars":6,"textLines":1,"bbox":[156,427,150,28]}
+{"kind":"textbox","id":"sh/sv218j25","slide":15,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[370,385,64,64]}
+{"kind":"textbox","id":"sh/twvihojq","slide":15,"text":"App Service","textPreview":"App Service","textChars":11,"textLines":1,"bbox":[456,387,190,34]}
+{"kind":"textbox","id":"sh/69kj6tkz","slide":15,"text":"25 min","textPreview":"25 min","textChars":6,"textLines":1,"bbox":[456,427,150,28]}
+{"kind":"textbox","id":"sh/7at0fe1k","slide":15,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[670,385,64,64]}
+{"kind":"textbox","id":"sh/gzm1c321","slide":15,"text":"Validate","textPreview":"Validate","textChars":8,"textLines":1,"bbox":[756,387,190,34]}
+{"kind":"textbox","id":"sh/h0vil8jm","slide":15,"text":"5 min","textPreview":"5 min","textChars":5,"textLines":1,"bbox":[756,427,150,28]}
+{"kind":"textbox","id":"sh/ux4jatkb","slide":15,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[970,385,64,64]}
+{"kind":"textbox","id":"sh/fyd0jy1g","slide":15,"text":"Cleanup","textPreview":"Cleanup","textChars":7,"textLines":1,"bbox":[1056,387,190,34]}
+{"kind":"textbox","id":"sh/w3ih0z2x","slide":15,"text":"5 min","textPreview":"5 min","textChars":5,"textLines":1,"bbox":[1056,427,150,28]}
+{"kind":"shape","id":"sh/x4ri94ji","slide":15,"bbox":[315,570,650,58]}
+{"kind":"textbox","id":"sh/za1cv6pc","slide":15,"text":"If the VM deployment runs long, inspect the prepared VM and continue","textPreview":"If the VM deployment runs long, inspect the prepared VM and continue","textChars":68,"textLines":1,"bbox":[338,585,605,30]}
+{"kind":"notes","id":"nt/714kca","slide":15,"text":"Set expectations before the labs. Keep the clock visible. Ask learners to stop and raise a hand if their subscription or region differs. Use the prepared VM if deployment remains incomplete after the planned checkpoint."}
+{"kind":"slide","id":"sl/dd4j1t","slide":16,"title":"The environment you will build","textShapes":15}
+{"kind":"textbox","id":"sh/zids7els","slide":16,"text":"The environment you will build","textPreview":"The environment you will build","textChars":30,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/0jmtgj2x","slide":16,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/1kfa9o3i","slide":16,"text":"All lab resources live inside one Resource Group","textPreview":"All lab resources live inside one Resource Group","textChars":48,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/mlobitk3","slide":16,"text":"MMAUG Azure Fundamentals  |  16","textPreview":"MMAUG Azure Fundamentals  |  16","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"shape","id":"sh/nmxsbylo","slide":16,"bbox":[55,142,1170,455]}
+{"kind":"textbox","id":"sh/on6tk329","slide":16,"text":"rg-mmaug-azurefundamentals","textPreview":"rg-mmaug-azurefundamentals","textChars":26,"textLines":1,"bbox":[82,160,500,36]}
+{"kind":"shape","id":"sh/9ofad83u","slide":16,"bbox":[90,230,530,300]}
+{"kind":"textbox","id":"sh/apobmtkf","slide":16,"text":"Compute and network","textPreview":"Compute and network","textChars":19,"textLines":1,"bbox":[120,252,350,32]}
+{"kind":"shape","id":"sh/bqxsfyl0","slide":16,"bbox":[130,315,420,150]}
+{"kind":"textbox","id":"sh/3qxkril4","slide":16,"text":"vnet-mmaug-demo","textPreview":"vnet-mmaug-demo","textChars":15,"textLines":1,"bbox":[160,330,230,32]}
+{"kind":"textbox","id":"sh/2543idkj","slide":16,"text":"NIC","textPreview":"NIC","textChars":3,"textLines":1,"bbox":[170,383,70,70]}
+{"kind":"shape","id":"sh/psf2t83a","slide":16,"bbox":[240,416,83,5]}
+{"kind":"textbox","id":"sh/4r6lkn2p","slide":16,"text":"VM","textPreview":"VM","textChars":2,"textLines":1,"bbox":[323,380,80,80]}
+{"kind":"textbox","id":"sh/f2dknyl8","slide":16,"text":"NSG","textPreview":"NSG","textChars":3,"textLines":1,"bbox":[438,398,75,28]}
+{"kind":"shape","id":"sh/u143etkn","slide":16,"bbox":[680,230,230,132]}
+{"kind":"textbox","id":"sh/h4v2p83y","slide":16,"text":"Storage","textPreview":"Storage","textChars":7,"textLines":1,"bbox":[710,250,170,30]}
+{"kind":"textbox","id":"sh/g3mlg32t","slide":16,"text":"Private Blob","textPreview":"Private Blob","textChars":12,"textLines":1,"bbox":[710,303,170,30]}
+{"kind":"shape","id":"sh/zyh4z2lc","slide":16,"bbox":[955,230,230,132]}
+{"kind":"textbox","id":"sh/ex83qxkr","slide":16,"text":"App Service","textPreview":"App Service","textChars":11,"textLines":1,"bbox":[985,250,170,30]}
+{"kind":"textbox","id":"sh/atsni14z","slide":16,"text":"Static web page","textPreview":"Static web page","textChars":15,"textLines":1,"bbox":[985,303,170,30]}
+{"kind":"shape","id":"sh/bu1or65k","slide":16,"bbox":[680,410,505,90]}
+{"kind":"textbox","id":"sh/wva5krm5","slide":16,"text":"Activity Log","textPreview":"Activity Log","textChars":12,"textLines":1,"bbox":[715,430,170,30]}
+{"kind":"textbox","id":"sh/xg36twnq","slide":16,"text":"Creation events and failures","textPreview":"Creation events and failures","textChars":28,"textLines":1,"bbox":[900,430,240,32]}
+{"kind":"notes","id":"nt/dd4j1t","slide":16,"text":"Walk through the topology from left to right. Ask learners to point to the resources that belong to networking, storage, and web hosting. Reinforce that one cleanup action targets the complete Resource Group."}
+{"kind":"slide","id":"sl/w3f4ma","slide":17,"title":"Validation and safe troubleshooting","textShapes":21}
+{"kind":"textbox","id":"sh/0falwvah","slide":17,"text":"Validation and safe troubleshooting","textPreview":"Validation and safe troubleshooting","textChars":35,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/ze143a9w","slide":17,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/yds3u5sr","slide":17,"text":"Read the first specific error before changing settings","textPreview":"Read the first specific error before changing settings","textChars":54,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/dcjm10r6","slide":17,"text":"MMAUG Azure Fundamentals  |  17","textPreview":"MMAUG Azure Fundamentals  |  17","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"textbox","id":"sh/cbqlsval","slide":17,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[82,150,48,48]}
+{"kind":"textbox","id":"sh/bah4zq90","slide":17,"text":"Subscription","textPreview":"Subscription","textChars":12,"textLines":1,"bbox":[155,153,260,34]}
+{"kind":"textbox","id":"sh/q983qlsf","slide":17,"text":"Correct bootcamp context","textPreview":"Correct bootcamp context","textChars":24,"textLines":1,"bbox":[430,153,390,34]}
+{"kind":"textbox","id":"sh/x83mdkra","slide":17,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[82,232,48,48]}
+{"kind":"textbox","id":"sh/w7u54fqp","slide":17,"text":"Resource Group","textPreview":"Resource Group","textChars":14,"textLines":1,"bbox":[155,235,260,34]}
+{"kind":"textbox","id":"sh/upc321s7","slide":17,"text":"Exact lab name","textPreview":"Exact lab name","textChars":14,"textLines":1,"bbox":[430,235,390,34]}
+{"kind":"textbox","id":"sh/fqlkb69s","slide":17,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[82,314,48,48]}
+{"kind":"textbox","id":"sh/grul4bad","slide":17,"text":"Deployment","textPreview":"Deployment","textChars":10,"textLines":1,"bbox":[155,317,260,34]}
+{"kind":"textbox","id":"sh/hc32dwry","slide":17,"text":"Provisioning succeeded","textPreview":"Provisioning succeeded","textChars":22,"textLines":1,"bbox":[430,317,390,34]}
+{"kind":"textbox","id":"sh/6lsjyhsb","slide":17,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[82,396,48,48]}
+{"kind":"textbox","id":"sh/7m1k7m9w","slide":17,"text":"Security","textPreview":"Security","textChars":8,"textLines":1,"bbox":[155,399,260,34]}
+{"kind":"textbox","id":"sh/sna10ra1","slide":17,"text":"No anonymous Blob or open RDP","textPreview":"No anonymous Blob or open RDP","textChars":29,"textLines":1,"bbox":[430,399,390,34]}
+{"kind":"textbox","id":"sh/toj29wrm","slide":17,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[82,478,48,48]}
+{"kind":"textbox","id":"sh/qhw3alsf","slide":17,"text":"Application","textPreview":"Application","textChars":11,"textLines":1,"bbox":[155,481,260,34]}
+{"kind":"textbox","id":"sh/ri5kjq90","slide":17,"text":"HTTPS page loads","textPreview":"HTTPS page loads","textChars":16,"textLines":1,"bbox":[430,481,390,34]}
+{"kind":"shape","id":"sh/nmx0bipc","slide":17,"bbox":[865,170,330,340]}
+{"kind":"textbox","id":"sh/m1oz2d8r","slide":17,"text":"Common blockers","textPreview":"Common blockers","textChars":15,"textLines":1,"bbox":[900,198,260,40]}
+{"kind":"textbox","id":"sh/9ofids7i","slide":17,"text":"Permission denied\n\nRegion or size unavailable\n\nName already used\n\nPolicy blocked the setting","textPreview":"Permission denied |  | Region or size unavailable |  | Name already used |  | Policy blocked the setting","textChars":92,"textLines":7,"bbox":[908,265,245,205]}
+{"kind":"textbox","id":"sh/8n6h4nqx","slide":17,"text":"Ask the instructor before changing scope, role, region, or security rules.","textPreview":"Ask the instructor before changing scope, role, region, or security rules.","textChars":74,"textLines":1,"bbox":[815,548,390,72]}
+{"kind":"notes","id":"nt/w3f4ma","slide":17,"text":"Model calm troubleshooting. Check subscription, exact resource, and deployment details. Do not make unnecessary RBAC changes. Do not weaken network or storage security to make an error disappear."}
+{"kind":"slide","id":"sl/271f18","slide":18,"title":"Cleanup completes the lab","textShapes":14}
+{"kind":"textbox","id":"sh/h8jmxkv6","slide":18,"text":"Cleanup completes the lab","textPreview":"Cleanup completes the lab","textChars":25,"textLines":1,"bbox":[78,42,1130,58]}
+{"kind":"shape","id":"sh/u5sn2pwf","slide":18,"bbox":[68,110,74,5]}
+{"kind":"textbox","id":"sh/v614vud0","slide":18,"text":"Delete the exact Resource Group and verify the result","textPreview":"Delete the exact Resource Group and verify the result","textChars":53,"textLines":1,"bbox":[160,88,1048,36]}
+{"kind":"textbox","id":"sh/8ja50fe9","slide":18,"text":"MMAUG Azure Fundamentals  |  18","textPreview":"MMAUG Azure Fundamentals  |  18","textChars":31,"textLines":1,"bbox":[68,682,1140,20]}
+{"kind":"shape","id":"sh/9kjmtkvu","slide":18,"bbox":[120,175,1040,105]}
+{"kind":"textbox","id":"sh/mh8ny5wj","slide":18,"text":"Deleting a Resource Group permanently deletes every resource inside it","textPreview":"Deleting a Resource Group permanently deletes every resource inside it","textChars":70,"textLines":1,"bbox":[160,205,960,48]}
+{"kind":"textbox","id":"sh/7ih4raxo","slide":18,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[80,365,72,72]}
+{"kind":"textbox","id":"sh/sfu5cjet","slide":18,"text":"Review contents","textPreview":"Review contents","textChars":15,"textLines":1,"bbox":[35,460,165,58]}
+{"kind":"shape","id":"sh/d03654ve","slide":18,"bbox":[152,398,225,6]}
+{"kind":"textbox","id":"sh/14j690na","slide":18,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[380,365,72,72]}
+{"kind":"textbox","id":"sh/g3a5gvmp","slide":18,"text":"Confirm exact name","textPreview":"Confirm exact name","textChars":18,"textLines":1,"bbox":[335,460,165,58]}
+{"kind":"shape","id":"sh/f21o7q54","slide":18,"bbox":[452,398,225,6]}
+{"kind":"textbox","id":"sh/e1snel4j","slide":18,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[680,365,72,72]}
+{"kind":"textbox","id":"sh/t0j65gny","slide":18,"text":"Delete Resource Group","textPreview":"Delete Resource Group","textChars":21,"textLines":1,"bbox":[635,460,165,58]}
+{"kind":"shape","id":"sh/sza5cbmd","slide":18,"bbox":[752,398,225,6]}
+{"kind":"textbox","id":"sh/ry1o3q5s","slide":18,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[980,365,72,72]}
+{"kind":"textbox","id":"sh/6x8nal4n","slide":18,"text":"Verify it is gone","textPreview":"Verify it is gone","textChars":17,"textLines":1,"bbox":[935,460,165,58]}
+{"kind":"shape","id":"sh/xw36hkni","slide":18,"bbox":[345,570,590,56]}
+{"kind":"textbox","id":"sh/cvu5ofmx","slide":18,"text":"az group exists --name rg-mmaug-azurefundamentals","textPreview":"az group exists --name rg-mmaug-azurefundamentals","textChars":49,"textLines":1,"bbox":[370,585,540,30]}
+{"kind":"textbox","id":"sh/wz2pkjut","slide":18,"text":"Expected: false","textPreview":"Expected: false","textChars":15,"textLines":1,"bbox":[500,635,280,30]}
+{"kind":"notes","id":"nt/271f18","slide":18,"text":"Read the warning aloud. Learners must inspect the Resource Group before deletion and stop if anything looks unfamiliar. The final CLI result should be false. Source: Microsoft Learn, Delete Azure Resource Groups."}
