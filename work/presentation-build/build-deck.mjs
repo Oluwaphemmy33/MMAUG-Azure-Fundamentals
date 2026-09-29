@@ -445,4 +445,4 @@ const result = await finalizePresentation({
   receiptPath: path.join(stagingDir, "MMAUG_Azure_Fundamentals_Labs_v2.validation.json"),
 });
 
-console.log(JSON.stringify({ final: FINAL_PPTX, slides: ppt.slides.length, font, result }, null,
+console.log(JSON.stringify({ final: FINAL_PPTX, slides: ppt.slides.length, font, result }, null, 2));
